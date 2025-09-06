@@ -1,4 +1,4 @@
 # myfirstrepo
 this is my first repo
 <br>
-Author - Aditya Singh
+Author - Aditya Singh(python)
